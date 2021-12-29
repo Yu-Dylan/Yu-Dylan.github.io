@@ -1,8 +1,6 @@
 ---
 title: Text and Typography
-author:
-  name: Dylan Yu
-  link: https://github.com/Yu-Dylan
+author: Dylan Yu
 date: 2021-12-29 01:07:00
 categories: [Blogging, Demo]
 tags: [typography]
