@@ -69,17 +69,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   #
+theme_mode:   # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://cdn8.openculture.com'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/wp-content/uploads/2015/09/feynmanart-3.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
