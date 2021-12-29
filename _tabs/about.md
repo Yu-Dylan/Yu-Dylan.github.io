@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+Hello! This is Dylan, a high school junior interested in
+- math,
+- coding,
+- physics, and
+- economics.
+I plan on putting some handouts and other projects are work on here.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+This website was built using Jekyll and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
