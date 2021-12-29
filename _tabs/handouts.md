@@ -1,6 +1,6 @@
 ---
 title: Handouts
-icon: fas fa-info-circle
+icon: fas fa-pen
 order: 2
 ---
 
