@@ -5,7 +5,7 @@ order: 2
 ---
 
 # My handouts
-Here are some things I've written.
+Here are some things I've written. Quite a few of these are written in (dylanadi.sty)[https://github.com/Yu-Dylan/tex/tree/master/dylanadi], my personal LaTeX style file. **Note:** An error will occur[^fn1] if you try to use it with the 2020 version of TeX, so please use the 2021 version! (Why would you want to use an older version anyway?)
 
 ## Math
 I've divided the handouts into levels:
@@ -44,3 +44,6 @@ In 2020, I banded together with a group of students to write some handouts inten
 
 ## Higher Math
 - [Group Theory](/files/handouts/orchard/orchard-grouptheory.pdf): Written by Emma Cardwell and Matthew Ho. It is an introductory piece covering the basic ideas of group theory.
+
+# Footnotes
+[^fn1]: The problem stems from the Merriweather font code being changed to `MerriwthrSans-OsF`.
