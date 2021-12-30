@@ -5,7 +5,7 @@ order: 2
 ---
 
 # My handouts
-Here are some things I've written. Quite a few of these are written in (dylanadi.sty)[https://github.com/Yu-Dylan/tex/tree/master/dylanadi], my personal LaTeX style file. **Note:** An error will occur[^fn1] if you try to use it with the 2020 version of TeX, so please use the 2021 version! (Why would you want to use an older version anyway?)
+Here are some things I've written. Quite a few of these are written in [dylanadi.sty](https://github.com/Yu-Dylan/tex/tree/master/dylanadi), my personal LaTeX style file. **Note:** An error will occur[^fn1] if you try to use it with the 2020 version of TeX, so please use the 2021 version! (Why would you want to use an older version anyway?)
 
 ## Math
 I've divided the handouts into levels:
