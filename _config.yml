@@ -72,10 +72,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://cdn8.openculture.com'
+img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/wp-content/uploads/2015/09/feynmanart-3.jpg'
+avatar: 'https://cdn8.openculture.com/wp-content/uploads/2015/09/feynmanart-3.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
