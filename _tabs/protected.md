@@ -1,5 +1,5 @@
 ---
-title: Password Protected Pages
+title: Encrypted Files
 icon: fas fa-lock
 order: 6
 ---
