@@ -22,9 +22,15 @@ I've divided the handouts into levels:
 
 ### Level 2
 - [AIME Strategies](/files/handouts/M2-aime.pdf): A few strategies for AIME preparation. You can consider this a sequel to the [BOGTRO's article](https://artofproblemsolving.com/community/c5h1061437p4596291).
+- [Diagram Perturbation](/files/handouts/M2-perturb.pdf): Slick geometric transformation problems that feel like you're building something on top of the existing figure.
 
 ### Level 3
 - [Unorthodox Problems](/files/handouts/M3-unorthodox.pdf): A few problems that aren't like others. Have fun solving! **Note:** I no longer think all of these problems are unorthodox. All of them are a lot of fun to do though!
+- [Diophantine Equations](/files/handouts/M3-diophantine.pdf): Basic techniques to solving diophantines, like modular arithmetic, inequalities, etc.
+- [Invariants](/files/handouts/M3-invariants.pdf): How to use quantities that don't change to solve problems.
+
+### Level 4
+- [Integration](https://www.geometryexplorer.xyz/pdfs/calc/integration.pdf): Co-written with Dennis Chen. Covers various methods of integration.
 
 # Euclid's Orchard
 In 2020, I banded together with a group of students to write some handouts intended for the [AoPS](https://artofproblemsolving.com/) community. Here is our work.
