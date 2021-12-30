@@ -8,3 +8,6 @@ See [here](https://yu-dylan.github.io/about/).
 
 ## How can I contact you?
 Look at the bottom left corner of [my website](https://yu-dylan.github.io/).
+
+## Is this a new website?
+Yes. The old one can be found [here](https://github.com/Yu-Dylan/Yu-Dylan.github.io-old).
