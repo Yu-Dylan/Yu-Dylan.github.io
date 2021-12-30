@@ -5,7 +5,26 @@ order: 2
 ---
 
 # My handouts
-Here are some things I've written/helped write.
+Here are some things I've written.
+
+## Math
+I've divided the handouts into levels:
+- 0 for unrated,
+- 1 for introductory AMC 8 and below,
+- 2 for AIME and below,
+- 3 for easy USA(J)MO and below, and
+- 4 for everything else.
+
+### Level 0
+- [Properties of 2020](/files/handouts/M0-prop2020.pdf): A list of properties of 2020 made by scouring [OEIS](https://oeis.org/). Also check out [this handout by Walt S](https://drive.google.com/file/d/1-sKnKOWUNaZAfG_4o1DaHoVAwnNQ9PWp/view), which is better suited for AMC practice.
+
+### Level 1
+
+### Level 2
+- [AIME Strategies](/files/handouts/M2-aime.pdf): A few strategies for AIME preparation. You can consider this a sequel to the [BOGTRO's article](https://artofproblemsolving.com/community/c5h1061437p4596291).
+
+### Level 3
+- [Unorthodox Problems](/files/handouts/M3-unorthodox.pdf): A few problems that aren't like others. Have fun solving! **Note:** I no longer think all of these problems are unorthodox. All of them are a lot of fun to do though!
 
 # Euclid's Orchard
 In 2020, I banded together with a group of students to write some handouts intended for the [AoPS](https://artofproblemsolving.com/) community. Here is our work.
