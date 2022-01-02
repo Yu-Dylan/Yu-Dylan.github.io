@@ -20,7 +20,7 @@ timezone: America/Chicago
 
 title: Dylan Yu                          # the main title
 
-tagline: High school student with many interests   # it will display as the sub-title
+tagline: High school student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A website to house my thoughts, handouts, etc.
@@ -39,7 +39,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/Yu-Dylan       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/dylan.yu.96199/
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
