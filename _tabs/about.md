@@ -16,7 +16,7 @@ I plan on putting some handouts and other projects are work on here.
 ## Things I am/was involved in
 - [Math Advance](https://mathadvance.org/) and [MAST](https://mast.mathadvance.org/)
 - [NICE Contest](https://www.nicecontest.xyz/)
-- Online Classes Club
+- [Online Classes Club](https://onlineclassesclub.github.io/)
 - ASE Math Club
 - [Little MD](https://littlemeddegree.wixsite.com/medcamp)
 
