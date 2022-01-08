@@ -29,6 +29,11 @@ I've divided the handouts into levels:
 - [Diophantine Equations](/files/handouts/M3-diophantine.pdf): Basic techniques to solving diophantines, like modular arithmetic, inequalities, etc.
 - [Invariants](/files/handouts/M3-invariants.pdf): How to use quantities that don't change to solve problems.
 
+## Computer science
+
+### Level 0
+- [LaTeX Basics](/files/handouts/I0-latex.pdf): Slides presented for my school's CS club. Covers the fundamentals of LaTeX, e.g. common commands and structures.
+
 ### Level 4
 - [Integration](https://www.geometryexplorer.xyz/pdfs/calc/integration.pdf): Co-written with Dennis Chen. Covers various methods of integration.
 
