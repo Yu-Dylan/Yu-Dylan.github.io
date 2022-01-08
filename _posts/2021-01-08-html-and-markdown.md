@@ -89,7 +89,7 @@ System.out.println("Hello world!");
 
 Powered by [MathJax](https://www.mathjax.org/):[^fn2]
 
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
+$$ \sum_{n=1}^\infty \frac1{n^2} = \frac{\pi^2}{6} $$
 
 > **Theorem** (Quadratic formula). Let $a\neq 0$. Then the two solutions to $ax^2 + bx + c = 0$ are given by
 > 
