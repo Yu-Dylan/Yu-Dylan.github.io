@@ -71,7 +71,7 @@ System.out.println("Hello world!");
 
 ## Block Quote
 
-> This line to shows the Block Quote.
+> This line to shows the Block Quote.[^fn1]
 
 ## Tables
 
@@ -85,19 +85,15 @@ System.out.println("Hello world!");
 
 <https://yu-dylan.github.io/> or [click this](https://yu-dylan.github.io/).
 
-## Footnotes
-
-First footnote[^fn1], and here is another footnote[^fn2].
-
 ## LaTeX
 
-Powered by [MathJax](https://www.mathjax.org/):
+Powered by [MathJax](https://www.mathjax.org/):[^fn2]
 
 $$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
 
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+> **Theorem** (Quadratic formula). Let $a\neq 0$. Then the two solutions to $ax^2 + bx + c = 0$ are given by
+> 
+> $$ x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}. $$
 
 # Footnotes
 
