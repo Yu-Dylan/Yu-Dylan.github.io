@@ -1,7 +1,7 @@
 ---
 title: HTML and Markdown
 author: Dylan Yu
-date: 2021-12-29 01:07:00
+date: 2022-01-08
 categories: [Blogging, Tutorial]
 tags: [code, tutorial]
 math: true
