@@ -75,11 +75,11 @@ System.out.println("Hello world!");
 
 ## Tables
 
-| Company                      | Contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
+| Programming Language | Inventor         | Useful for          |
+|:---------------------|:-----------------|--------------------:|
+| Java                 | James Gosling    | Passing the AP      |
+| Python               | Guido von Rossum | Training bots       |
+| Wolfram Language     | Stephen Wolfram  | Doing your homework |
 
 ## Links
 
