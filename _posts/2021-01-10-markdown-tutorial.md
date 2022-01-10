@@ -10,11 +10,11 @@ mermaid: true
 
 # Heading (H1)
 
-<h2 data-toc-skip>Smaller heading (H2)</h2>
+## Smaller heading (H2)
 
-<h3 data-toc-skip>Even smaller heading (H3)</h3>
+### Even smaller heading (H3)
 
-<h4 data-toc-skip>Even smaller smaller heading (H4)</h4>
+#### Even smaller smaller heading (H4)
 
 # Lists
 
