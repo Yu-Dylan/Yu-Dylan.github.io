@@ -51,7 +51,7 @@ Moon
 
 ## Inline
 
-This is an example of `Inline Code`.
+This is an example of `inline code`.
 
 ## Code block
 
@@ -69,9 +69,9 @@ System.out.println("Hello world!");
 
 # Miscellaneous
 
-## Block Quote
+## Block quote
 
-> This line to shows the Block Quote.[^fn1]
+> This is a block quote.[^fn1]
 
 ## Tables
 
