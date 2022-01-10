@@ -33,6 +33,7 @@ mermaid: true
   </ul>
 </ul>
 <h2>Task list</h2>
+Not covered.
 <h2>Description list</h2>
 <dl>
   <dt>Sun</dt>
