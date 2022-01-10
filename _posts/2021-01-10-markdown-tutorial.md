@@ -67,7 +67,7 @@ Specific languages (e.g. Java):
 System.out.println("Hello world!");
 ```
 
-# Miscelleanous
+# Miscellaneous
 
 ## Block Quote
 
