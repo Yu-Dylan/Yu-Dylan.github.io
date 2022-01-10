@@ -1,7 +1,7 @@
 ---
 title: Markdown Tutorial
 author: Dylan Yu
-date: 2022-01-08
+date: 2022-01-10
 categories: [Blogging, Tutorial]
 tags: [code, tutorial]
 math: true
