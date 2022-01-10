@@ -8,7 +8,7 @@ math: true
 mermaid: true
 ---
 
-[W3Schools](https://www.w3schools.com/html/html_intro.asp) has a pretty good HTML tutorial.
+[W3Schools](https://www.w3schools.com/html/html_intro.asp) has a pretty good HTML tutorial. Output of the following code can be found [here](https://yu-dylan.github.io/protected/tutorials/html-tutorial/).
 ```html
 <!DOCTYPE html>
 <html>
