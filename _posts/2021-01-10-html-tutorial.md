@@ -22,6 +22,15 @@ mermaid: true
 <h1>Lists (H1)</h1>
 <h2>Ordered list</h2>
 <p>A paragraph.</p>
+<ol>
+<li>Chapter</li>
+  <ol>
+    <li>Section</li>
+    <ol>
+      <li>Paragraph</li>
+    </ol>
+  </ol>
+</ol>
 <h2>Unordered list</h2>
 <ul>
   <li>Chapter</li>
