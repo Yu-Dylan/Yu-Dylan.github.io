@@ -19,7 +19,3 @@ I plan on putting some handouts and other projects are work on here.
 - [Online Classes Club](https://onlineclassesclub.github.io/)
 - ASE Math Club
 - [Little MD](https://littlemeddegree.wixsite.com/medcamp)
-
-
-# Website info
-This website was built using Jekyll and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
