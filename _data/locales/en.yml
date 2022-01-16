@@ -20,7 +20,7 @@ tabs:
 search:
   hint: search
   cancel: Cancel
-  no_results: Oops! No result founds.
+  no_results: No results found.
 
 panel:
   lastmod: Recent Update
@@ -48,13 +48,13 @@ copyright:
     Except where otherwise noted, the blog posts on this site are licensed
     under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
 
-meta: Powered by :PLATFORM with :THEME theme.
+meta: Powered by :PLATFORM.
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-  hint_template: :HEAD_BAK to try finding it again, or search for it on the :ARCHIVES_PAGE.
-  head_back: Head back Home
-  archives_page: Archives page
+  statment: Sorry, the URL you requested doesn't exist.
+  hint_template: :HEAD_BAK to try finding it again, or search for it in the :ARCHIVES_PAGE.
+  head_back: Return to the home page
+  archives_page: archives
 
 # ----- Posts related labels -----
 
