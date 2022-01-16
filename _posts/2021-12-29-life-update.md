@@ -11,10 +11,6 @@ mermaid: true
 Good.
 
 Testing math:
-> <span style="color:red">**Theorem** (Function rotation).</span> Let $f$ be the function you want to rotate and $\theta$ be the angle counterclockwise from the $x$-axis you want to rotate it. Then the new function becomes
+> <span style="color:#8866ff">**Theorem** (Function rotation).</span> Let $f$ be the function you want to rotate and $\theta$ be the angle counterclockwise from the $x$-axis you want to rotate it. Then the new function becomes
 > 
 > $$y\cos \theta-x\sin \theta=f\left(x\cos \theta+y\cos \theta\right).$$
-
-> $\color{red}\textbf{Theorem}~(\text{Pythagorean theorem}).$ For a right triangle with legs of length $a,b$ and hypotenuse of length $c$,
-> 
-> $$a^2+b^2=c^2.$$
