@@ -12,8 +12,8 @@ Good.
 
 Testing math:
 
-<blockquote style="color:#ac95fc; background:#372f54">
-<span style="color:">**Theorem** (Function rotation).</span> Let $f$ be the function you want to rotate and $\theta$ be the angle counterclockwise from the $x$-axis you want to rotate it. Then the new function becomes
+<blockquote style="border-left: 1.5px solid #ac95fc; color:#ac95fc; background:#252038">
+**Theorem** (Function rotation). Let $f$ be the function you want to rotate and $\theta$ be the angle counterclockwise from the $x$-axis you want to rotate it. Then the new function becomes
 
 $$y\cos \theta-x\sin \theta=f\left(x\cos \theta+y\cos \theta\right).$$
 </blockquote>
