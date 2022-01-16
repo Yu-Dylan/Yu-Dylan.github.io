@@ -28,6 +28,7 @@ I've divided the handouts into levels:
 - [Unorthodox Problems](/files/handouts/M3-unorthodox.pdf): A few problems that aren't like others. Have fun solving! **Note:** I no longer think all of these problems are unorthodox. All of them are a lot of fun to do though!
 - [Diophantine Equations](/files/handouts/M3-diophantine.pdf): Basic techniques to solving diophantines, like modular arithmetic, inequalities, etc.
 - [Invariants](/files/handouts/M3-invariants.pdf): How to use quantities that don't change to solve problems.
+- [Roots of Unity Filter](https://www.nicecontest.xyz/static/media/NJ2.942d32c0.pdf): Written for NICE Journal, of which I am the lead editor. See [the website](https://www.nicecontest.xyz/) for other issues.
 
 ### Level 4
 - [Integration](https://www.geometryexplorer.xyz/pdfs/calc/integration.pdf): Co-written with Dennis Chen. Covers various methods of integration.
