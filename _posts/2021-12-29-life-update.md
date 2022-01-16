@@ -15,6 +15,6 @@ Testing math:
 > 
 > $$y\cos \theta-x\sin \theta=f\left(x\cos \theta+y\cos \theta\right).$$
 
-> $\color{red}\textbf{Theorem}~(\text{Function notation}).$ For a right triangle with legs of length $a,b$ and hypotenuse of length $c$,
+> $\color{red}\textbf{Theorem}~(\text{Pythagorean theorem}).$ For a right triangle with legs of length $a,b$ and hypotenuse of length $c$,
 > 
 > $$a^2+b^2=c^2.$$
