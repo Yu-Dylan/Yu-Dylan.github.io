@@ -15,6 +15,6 @@ Testing math:
 > 
 > $$y\cos \theta-x\sin \theta=f\left(x\cos \theta+y\cos \theta\right).$$
 
-> <span style="color:#95fcdd">**Example**.</span> This is an example.$$
+> <span style="color:#95fcdd">**Example**.</span> This is an example.
 
-> <span style="color:#f79eb2">**Definition** (Cube).</span> A _cube_ is a six-faced 3D object.$$
+> <span style="color:#f79eb2">**Definition** (Cube).</span> A _cube_ is a six-faced 3D object.
