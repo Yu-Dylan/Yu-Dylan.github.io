@@ -51,7 +51,7 @@ In 2020, I banded together with a group of students to write some handouts inten
 
 ## AIME-USA(J)MO Level
 - [Polynomials in the AIME](/files/handouts/orchard/orchard-polynomials.pdf): Written by naman12 and me. A complete guide on how to use polynomials on the AIME. Includes (almost) every polynomial problem on the AIME and also problems from other sources (such as RMO and HMMT).
-- [Standard Proof Techniques](/files/handouts/orchard/orchard-polynomials.pdf): Written by Jai Sharma. Introduces proof techniques any olympiad student should know.
+- [Standard Proof Techniques](/files/handouts/orchard/orchard-proofs.pdf): Written by Jai Sharma. Introduces proof techniques any olympiad student should know.
 - [Trigonometry in the AIME and USA(J)MO](/files/handouts/orchard/orchard-trigonometry.pdf): Written by naman12 and me. A complete guide on how to use trigonometry on the AIME and USA(J)MO. Includes (almost) every trigonometry problem on the AIME, with worked out problems as well as more than one hundred hints to selected problems. There are quite a few olympiad problems sprinkled in, too.
 
 ## Higher Math
