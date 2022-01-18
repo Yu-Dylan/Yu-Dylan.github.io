@@ -15,10 +15,6 @@
   type: facebook
   icon: 'fab fa-facebook-f'
   url: 'https://www.facebook.com/dylan.yu.96199/'
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: false
 
 # Uncomment and complete the url below to enable more contact options
 # -
