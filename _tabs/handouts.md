@@ -23,6 +23,7 @@ I've divided the handouts into levels:
 ### Level 2
 - [AIME Strategies](/files/handouts/M2-aime.pdf): A few strategies for AIME preparation. You can consider this a sequel to the [BOGTRO's article](https://artofproblemsolving.com/community/c5h1061437p4596291).
 - [Diagram Perturbation](/files/handouts/M2-perturb.pdf): Slick geometric transformation problems that feel like you're building something on top of the existing figure.
+- [Hidden Gems](/files/handouts/M2-gems.pdf): Some problems that don't get the love they deserve; many are taken from David Altizio's collection.
 
 ### Level 3
 - [Unorthodox Problems](/files/handouts/M3-unorthodox.pdf): A few problems that aren't like others. Have fun solving! **Note:** I no longer think all of these problems are unorthodox. All of them are a lot of fun to do though!
