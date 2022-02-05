@@ -31,9 +31,11 @@ Not software, but worth mentioning.
 
 # Conclusion
 I use Taskade, X-Mouse Button Control, and Spicetify the most. Highly recommend those!
-<center>
-<img src="https://www.pngkey.com/png/full/34-346848_black-and-white-trophy-clipart-mom-free-gold.png" alt="254" width="200"/>
-</center>
+<div align="center">
+
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2F12%2F3e%2Fb9123ee8f0e845ba77f2a02b5825d99b.png&f=1&nofb=1" alt="254" width="150"/>](254.png)
+
+</div>
 Some other software I'm eyeing:
 
 - [LaTeX to WP](https://lucatrevisan.wordpress.com/latex-to-wordpress/): For easier blogging. This isn't useful for non-mathematical posts, but it could be nice to use in the future.
