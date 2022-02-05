@@ -33,7 +33,11 @@ Not software, but worth mentioning.
 I use Taskade, X-Mouse Button Control, and Spicetify the most. Highly recommend those!
 <div align="center">
 
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2F12%2F3e%2Fb9123ee8f0e845ba77f2a02b5825d99b.png&f=1&nofb=1" alt="254" width="150"/>](254.png)
+<img id="trophies" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2F12%2F3e%2Fb9123ee8f0e845ba77f2a02b5825d99b.png&f=1&nofb=1" alt="254" width="150"/>
+<script>
+    const img = document.getElementById("trophies");
+    img.src = "trophies.png";
+</script>
 
 </div>
 Some other software I'm eyeing:
