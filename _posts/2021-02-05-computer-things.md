@@ -9,39 +9,8 @@ mermaid: true
 ---
 
 <script>
-    window.addEventListener('keydown', event => {
-    switch (event.keyCode) {
-        case 49:
-            setBackgroundColor('red');
-            break;
-        case 50:
-            setBackgroundColor('green');
-            break;
-        case 51:
-            setBackgroundColor('blue');
-            break;
-        case 52:
-            setBackgroundColor('yellow');
-            break;
-        case 53:
-            setBackgroundColor('black');
-            break;
-        case 54:
-            setBackgroundColor('white');
-            break;
-        case 55:
-            setBackgroundColor('purple');
-            break;
-        case 56:
-            setBackgroundColor('#333');
-    }
-    });
-        
-    function setBackgroundColor(color) {
-        document
-        .querySelector('body')
-        .style
-        .backgroundColor = color;
+    if (event.keyCode == 49) {
+        $("#id").css("background-color", "green");
     }
 </script>
 
