@@ -8,12 +8,6 @@ math: true
 mermaid: true
 ---
 
-<script>
-    if (event.keyCode == 49) {
-        $("#id").css("background-color", "green");
-    }
-</script>
-
 Recently, I downloaded/started using a number of things to make what I regularly use easier or prettier. If any of them interest you, I'd recommend downloading it yourself and playing around with it.
 
 # Notation
@@ -41,6 +35,12 @@ I use Taskade, X-Mouse Button Control, and Spicetify the most. Highly recommend 
 
 <img id="trophies" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2F12%2F3e%2Fb9123ee8f0e845ba77f2a02b5825d99b.png&f=1&nofb=1" alt="254" width="150"/>
 
+<script>
+function changeImg() {
+  document.getElementById("trophies").src = "https://i.ibb.co/Y78gKyH/computer-things-secret.png";
+}
+</script>
+
 </div>
 Some other software I'm eyeing:
 
@@ -49,3 +49,5 @@ Some other software I'm eyeing:
 - [Linux](https://www.linux.org/): The big OS change. I might try it on a virtual machine first before fully switching. I think I'll use Ubuntu as a beginner distribution then try Arch Linux.
 
 I'm not knowledgeable in any of these three, so let me know if you have some good guides to follow!
+
+<button onclick="changeImg()"></button>
