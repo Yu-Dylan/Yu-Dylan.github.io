@@ -1,7 +1,7 @@
 ---
 title: Random software things
 author: Dylan Yu
-date: 2022-02-03
+date: 2022-02-05
 categories: [Blogging, Software]
 tags: [code, computer, software]
 math: true
