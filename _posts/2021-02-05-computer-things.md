@@ -8,6 +8,43 @@ math: true
 mermaid: true
 ---
 
+<script>
+    window.addEventListener('keydown', event => {
+    switch (event.keyCode) {
+        case 49:
+            setBackgroundColor('red');
+            break;
+        case 50:
+            setBackgroundColor('green');
+            break;
+        case 51:
+            setBackgroundColor('blue');
+            break;
+        case 52:
+            setBackgroundColor('yellow');
+            break;
+        case 53:
+            setBackgroundColor('black');
+            break;
+        case 54:
+            setBackgroundColor('white');
+            break;
+        case 55:
+            setBackgroundColor('purple');
+            break;
+        case 56:
+            setBackgroundColor('#333');
+    }
+    });
+        
+    function setBackgroundColor(color) {
+        document
+        .querySelector('body')
+        .style
+        .backgroundColor = color;
+    }
+</script>
+
 Recently, I downloaded/started using a number of things to make what I regularly use easier or prettier. If any of them interest you, I'd recommend downloading it yourself and playing around with it.
 
 # Notation
@@ -34,18 +71,6 @@ I use Taskade, X-Mouse Button Control, and Spicetify the most. Highly recommend 
 <div align="center">
 
 <img id="trophies" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2F12%2F3e%2Fb9123ee8f0e845ba77f2a02b5825d99b.png&f=1&nofb=1" alt="254" width="150"/>
-<!-- <script>
-    const img = document.getElementById("trophies");
-    img.src = "trophies.png";
-</script> -->
-
-<button onclick="myFunction()">Try it</button>
-
-<script>
-function myFunction() {
-  document.getElementById("trophies").src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdnicewallpapers.com%2FWalls%2FBig%2FRainbow%2FRainbow_on_Mountain_HD_Image.jpg&f=1&nofb=1";
-}
-</script>
 
 </div>
 Some other software I'm eyeing:
