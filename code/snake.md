@@ -7,5 +7,5 @@ mermaid: true
 ---
 
 <div align="center">
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@DylanYu/snake#main.py?embed=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@DylanYu/snake?embed=true"></iframe>
 </div>
