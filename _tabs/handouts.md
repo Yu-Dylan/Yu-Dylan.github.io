@@ -1,10 +1,10 @@
 ---
-title: Handouts
+title: Handouts and other materials
 icon: fas fa-pen
 order: 2
 ---
 
-# My handouts
+# My materials
 Here are some things I've written. Quite a few of these are written in [dylanadi.sty](https://github.com/Yu-Dylan/tex/tree/master/dylanadi), my personal LaTeX style file.[^fn1]
 
 ## Math
@@ -40,6 +40,9 @@ I've divided the handouts into levels:
 - [LaTeX Basics](/files/handouts/I0-latex.pdf): Slides presented for my school's CS club. Covers the fundamentals of LaTeX, e.g. common commands and structures.
 - [HTML Basics](/posts/html-tutorial/): Short blog post going over the very basics of HTML.
 - [Markdown Basics](/posts/markdown-tutorial/): Short blog post going over the very basics of Markdown.
+
+### Level 1
+- [Snake Game](/code/snake/): The basic snake game in Python (not written by me). I annotated the code to explain what's going on.
 
 # Euclid's Orchard
 In 2020, I banded together with a group of students to write some handouts intended for the [AoPS](https://artofproblemsolving.com/) community. Here is our work.
