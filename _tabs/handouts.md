@@ -41,9 +41,6 @@ I've divided the handouts into levels:
 - [HTML Basics](/posts/html-tutorial/): Short blog post going over the very basics of HTML.
 - [Markdown Basics](/posts/markdown-tutorial/): Short blog post going over the very basics of Markdown.
 
-### Level 1
-- [Snake Game](/code/snake.md): The basic snake game in Python (not written by me). I annotated the code to explain what's going on.
-
 # Euclid's Orchard
 In 2020, I banded together with a group of students to write some handouts intended for the [AoPS](https://artofproblemsolving.com/) community. Here is our work.
 
