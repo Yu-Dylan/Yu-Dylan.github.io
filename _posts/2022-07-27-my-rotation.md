@@ -1,7 +1,7 @@
 ---
 title: My rotation
 author: Dylan Yu
-date: 2021-12-29
+date: 2022-07-27
 categories: [Blogging, Life, Music]
 tags: [personal, music, spotify]
 math: true
