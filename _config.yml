@@ -20,10 +20,10 @@ timezone: America/Chicago
 
 title: Dylan Yu                          # the main title
 
-tagline: High school student   # it will display as the sub-title
+tagline: Freshman at MIT   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is the website of Dylan Yu. I'm a high school student with many interests.
+  Dylan Yu's website.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://yu-dylan.github.io'
 
@@ -39,8 +39,8 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/Yu-Dylan       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/dylan.yu.96199/
-    - https://artofproblemsolving.com/community/user/475198
+    # - https://www.facebook.com/dylan.yu.96199/
+    # - https://artofproblemsolving.com/community/user/475198
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
