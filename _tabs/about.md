@@ -5,15 +5,13 @@ order: 1
 ---
 
 # About me
-Hello! This is Dylan, a high school junior interested in
-- math,
-- coding,
-- physics, and
-- economics.
+Hello! I'm Dylan, a freshman at MIT. Broadly, I'm interested in machine learning, quantitative trading, and discrete mathematics. I plan to pursue a double major in Math and CS.
 
-I plan on putting some handouts and other projects are work on here.
+As a high schooler, I was heavily interested in teaching and outreach, especially in mathematics. Some of my teaching experience is listed on this page.
 
-## Things I am/was involved in
+Aside from academics, I enjoy coding (web dev, optimizing my computer), basketball, playing poker, and spending time in nature.
+
+## Things I was involved in
 - [Math Advance](https://mathadvance.org/) and [MAST](https://mast.mathadvance.org/)
 - [NICE Contest](https://www.nicecontest.xyz/)
 - [Vibrant Learning](https://vibrantlearning.github.io/)
