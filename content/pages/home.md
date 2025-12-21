@@ -1,6 +1,6 @@
 # Dylan Yu
 
-Hello! I'm currently doing my undergrad at MIT in CS and Math (6-3 and 18). I've spent some time doing ML research and engineering work at [Together](https://www.together.ai/) and [Windsurf](https://windsurf.com/) (now [Cognition](https://cognition.ai/)).
+Hello! I'm currently doing my undergrad at MIT in CS and Math (6-3 and 18). I spent the last six months doing ML research and engineering work at [Together](https://www.together.ai/) and [Windsurf](https://windsurf.com/) (now [Cognition](https://cognition.ai/)).
 
 ## MIT
 
