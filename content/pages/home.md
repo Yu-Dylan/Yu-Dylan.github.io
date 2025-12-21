@@ -22,7 +22,7 @@ I enjoy reading, poker, basketball, and listening to music. Book recs:
 - *The Great Gatsby*, F. Scott Fitzgerald
 - *A Series of Unfortunate Events*, Lemony Snicket (series)
 - *You and Your Research*, Richard Hamming
-- "On Writing Well", William Zinsser
+- *On Writing Well*, William Zinsser
 
 I don't read much these days but on my list are:
 
