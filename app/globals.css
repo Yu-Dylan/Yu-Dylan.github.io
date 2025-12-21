@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+html.light body {
+  background-color: white;
+  color: black;
+}
+
+html.dark body,
+body.dark {
+  background-color: #1a1a1a;
+  color: #e5e5e5;
+}
+
+/* Sidebar colors based on theme */
+.sidebar-header {
+  color: black !important;
+}
+
+html.dark .sidebar-header {
+  color: #e5e5e5 !important;
+}
+
+.sidebar-link {
+  color: black !important;
+}
+
+html.dark .sidebar-link {
+  color: #e5e5e5 !important;
+}
+
+/* Theme toggle button colors */
+.theme-toggle-button {
+  border: 1px solid black;
+  color: black;
+}
+
+html.dark .theme-toggle-button {
+  border: 1px solid #e5e5e5;
+  color: #e5e5e5;
+}
+
+/* Show/hide icons based on theme */
+.sun-icon {
+  display: none;
+}
+
+.moon-icon {
+  display: block;
+}
+
+html.dark .sun-icon {
+  display: block;
+}
+
+html.dark .moon-icon {
+  display: none;
+}
+
+/* Markdown content styling - matching TypeScript pages */
+main h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+main h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+main p {
+  margin-bottom: 1rem;
+}
+
+main a {
+  color: #FA8072 !important;
+  text-decoration: none;
+}
+
+main a:hover {
+  text-decoration: underline;
+}
+
+body.dark main a {
+  color: #FF9A8B !important;
+}
+
+main ul {
+  list-style-type: disc;
+  list-style-position: outside !important;
+  margin-bottom: 1rem;
+  padding-left: 2rem !important;
+  margin-left: 0 !important;
+}
+
+main ul li {
+  margin-bottom: 0.5rem;
+  padding-left: 0.5rem !important;
+}
+
+main strong {
+  font-weight: 600;
+}
+
+main div > * {
+  max-width: 100%;
+}

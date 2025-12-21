@@ -1,11 +1,35 @@
-## Website info
-Made with Jekyll and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy). Mostly everything in this website is written in Markdown.
+# Dylan Yu's Website
 
-## Who are you and what is this?
-See [here](https://yu-dylan.github.io/about/).
+Personal website built with Next.js, React, and TypeScript.
 
-## How can I contact you?
-Look at the bottom left corner of [my website](https://yu-dylan.github.io/).
+## Tech Stack
 
-## Is this a new website?
-Yes. The old one can be found [here](https://github.com/Yu-Dylan/Yu-Dylan.github.io-old).
+- **Framework**: Next.js 15 (App Router)
+- **Styling**: Tailwind CSS
+- **Content**: MDX for blog posts
+- **Deployment**: GitHub Pages
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Structure
+
+- `/app` - Next.js pages and layouts
+- `/components` - React components
+- `/content/posts` - Blog posts in MDX format
+- `/lib` - Utility functions
+- `/public` - Static assets
+
+## Design
+
+Minimalist design with warm pastel color palette (cream, salmon, sand tones).
