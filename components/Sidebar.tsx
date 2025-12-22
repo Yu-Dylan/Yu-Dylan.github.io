@@ -15,21 +15,19 @@ export default function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside style={{ 
+    <aside className="sidebar-container" style={{ 
       position: 'fixed', 
-      left: '280px',
-      top: 0, 
-      height: '100vh', 
+      left: 'calc(50% - 570px)',
+      top: '48px',
       width: '200px',
-      paddingTop: '48px',
-      paddingRight: '32px',
-      display: 'flex',
-      flexDirection: 'column',
+      paddingRight: '0',
+      paddingLeft: '32px',
       fontSize: '14px',
-      textAlign: 'right'
+      textAlign: 'right',
+      zIndex: 10
     }}>
       <div style={{ marginBottom: '32px' }}>
-        <h1 className="sidebar-header" style={{ fontWeight: 'bold', marginBottom: '8px', fontSize: '14px' }}>navigation:</h1>
+        <h1 className="sidebar-header" style={{ fontWeight: 'bold', margin: '0.67em 0', fontSize: '14px' }}>navigation:</h1>
         <nav>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
             {navItems.map((item) => {

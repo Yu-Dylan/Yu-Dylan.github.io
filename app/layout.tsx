@@ -64,23 +64,26 @@ export default function RootLayout({
           `}
         </Script>
         <Sidebar />
-        <main style={{
+        <div style={{
           minHeight: '100vh',
           display: 'flex',
           justifyContent: 'center',
-          alignItems: 'flex-start',
-          paddingTop: '48px',
-          paddingBottom: '64px'
+          position: 'relative'
         }}>
           <div style={{
-            maxWidth: '900px',
+            maxWidth: '700px',
             width: '100%',
+            position: 'relative',
+            paddingTop: '48px',
+            paddingBottom: '64px',
             paddingLeft: '32px',
             paddingRight: '32px'
           }}>
-            {children}
+            <main className="main-content">
+              {children}
+            </main>
           </div>
-        </main>
+        </div>
       </body>
     </html>
   );

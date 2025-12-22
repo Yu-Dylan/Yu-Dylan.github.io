@@ -13,6 +13,13 @@ body {
   min-height: 100vh;
 }
 
+/* Responsive layout */
+@media (max-width: 768px) {
+  .sidebar-container {
+    display: none !important;
+  }
+}
+
 html.light body {
   background-color: white;
   color: black;
