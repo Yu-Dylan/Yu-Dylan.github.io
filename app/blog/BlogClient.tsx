@@ -82,27 +82,40 @@ export default function BlogClient({ posts }: BlogClientProps) {
         </div>
       )}
       
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
         {filteredPosts.map((post) => (
-          <article key={post.slug} style={{ borderBottom: isDark ? '1px solid #e5e5e5' : '1px solid #333', paddingBottom: '2rem' }}>
-            <Link href={`/blog/${post.slug}`} style={{ textDecoration: 'none', color: 'black' }}>
-              <h2 style={{ fontSize: '1.125rem', fontWeight: '600', marginBottom: '0.5rem' }}>
-                {post.title}
-              </h2>
-            </Link>
-            <time style={{ fontSize: '0.875rem', color: isDark ? '#999' : '#666' }}>
+          <div key={post.slug} style={{ 
+            display: 'flex', 
+            alignItems: 'baseline', 
+            gap: '1.5rem',
+            paddingBottom: '0.5rem'
+          }}>
+            <time style={{ 
+              fontSize: '0.875rem', 
+              color: isDark ? '#999' : '#666',
+              minWidth: '100px'
+            }}>
               {formatDate(post.date)}
             </time>
+            <Link href={`/blog/${post.slug}`} style={{ 
+              textDecoration: 'none', 
+              color: '#FA8072',
+              flex: '1'
+            }}>
+              {post.title}
+            </Link>
             {post.tags && post.tags.length > 0 && (
-              <div style={{ display: 'flex', gap: '0.5rem', marginTop: '0.5rem', flexWrap: 'wrap' }}>
+              <div style={{ 
+                display: 'flex', 
+                gap: '0.5rem', 
+                flexWrap: 'wrap'
+              }}>
                 {post.tags.map(tag => (
                   <span
                     key={tag}
                     style={{
-                      fontSize: '0.75rem',
-                      padding: '0.125rem 0.5rem',
-                      backgroundColor: isDark ? '#2a2a2a' : '#f5f5f5',
-                      borderRadius: '4px',
+                      fontSize: '0.875rem',
+                      fontFamily: 'Consolas, monospace',
                       color: isDark ? '#999' : '#666'
                     }}
                   >
@@ -111,12 +124,7 @@ export default function BlogClient({ posts }: BlogClientProps) {
                 ))}
               </div>
             )}
-            {post.description && (
-              <p style={{ marginTop: '0.75rem', lineHeight: '1.6' }}>
-                {post.description}
-              </p>
-            )}
-          </article>
+          </div>
         ))}
       </div>
     </div>

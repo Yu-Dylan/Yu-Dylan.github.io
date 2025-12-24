@@ -15,7 +15,7 @@ export default function Sidebar() {
   const pathname = usePathname();
 
   return (
-    <aside className="sidebar-container" style={{ 
+    <aside className="sidebar-container" style={{
       position: 'fixed', 
       left: 'calc(50% - 570px)',
       top: '48px',
@@ -23,6 +23,7 @@ export default function Sidebar() {
       paddingRight: '0',
       paddingLeft: '32px',
       fontSize: '14px',
+      fontFamily: 'Consolas, monospace',
       textAlign: 'right',
       zIndex: 10
     }}>
