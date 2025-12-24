@@ -5,7 +5,7 @@ Bolded are handouts I think are especially good.
 ## My materials
 
 - [Properties of 2020](/files/handouts/M0-prop2020.pdf): I scoured OEIS and compiled a list of properties of 2020. It's amusing but not very useful.
-- [**AIME Strategies**](/files/handouts/M0-aime.pdf): I compiled a list of strategies for the AIME.
+- [**AIME Strategies**](/files/handouts/M2-aime.pdf): I compiled a list of strategies for the AIME.
 - [**Diagram Perturbation**](/files/handouts/M2-perturb.pdf): Slick geometric transformation problems that feel like you’re building something on top of the existing figure.
 - [**Hidden Gems**](/files/handouts/M2-gems.pdf): Some problems that don’t get the love they deserve; many are taken from David Altizio’s collection.
 - [Unorthodox Problems](/files/handouts/M3-unorthodox.pdf): A collection of fun problems.
