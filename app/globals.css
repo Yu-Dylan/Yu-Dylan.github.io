@@ -120,6 +120,19 @@ main ul li {
   padding-left: 0.5rem !important;
 }
 
+main ol {
+  list-style-type: decimal;
+  list-style-position: outside !important;
+  margin-bottom: 1rem;
+  padding-left: 2rem !important;
+  margin-left: 0 !important;
+}
+
+main ol li {
+  margin-bottom: 0.5rem;
+  padding-left: 0.5rem !important;
+}
+
 main strong {
   font-weight: 600;
 }
