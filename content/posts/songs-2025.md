@@ -1,5 +1,5 @@
 ---
-title: "Favorite Songs of 2025"
+title: "Favorite songs of 2025"
 date: "2025-12-31"
 description: "Songs I liked in 2025."
 tags: ["reflect", "songs"]
