@@ -13,7 +13,7 @@ export interface Post {
   content: string;
 }
 
-export function getAllPosts(): Post[] {
+export function getAllPosts(includePrivate: boolean = false): Post[] {
   if (!fs.existsSync(postsDirectory)) {
     return [];
   }
@@ -35,6 +35,13 @@ export function getAllPosts(): Post[] {
         tags: data.tags || [],
         content,
       };
+    })
+    .filter((post) => {
+      // Filter out private posts unless explicitly requested
+      if (!includePrivate && post.tags?.includes('private')) {
+        return false;
+      }
+      return true;
     })
     .sort((a, b) => (new Date(b.date).getTime() - new Date(a.date).getTime()));
 

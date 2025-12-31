@@ -4,7 +4,8 @@ import { formatDate } from '@/lib/utils';
 import { MDXRemote } from 'next-mdx-remote/rsc';
 
 export async function generateStaticParams() {
-  const posts = getAllPosts();
+  // Generate static params for all posts (required for output: export)
+  const posts = getAllPosts(true);
   return posts.map((post) => ({
     slug: post.slug,
   }));
@@ -15,6 +16,11 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   const post = getPostBySlug(slug);
 
   if (!post) {
+    notFound();
+  }
+
+  // Check if the post is private and block access
+  if (post.tags?.includes('private')) {
     notFound();
   }
 
